@@ -1,0 +1,9 @@
+i learned about:
+-git clone via ssh
+-git status
+-git add
+-git commit
+-git push
+-git log
+
+Odin's said it's only the fundamentals and most of the time this will be the most useful commands
